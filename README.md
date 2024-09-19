@@ -86,5 +86,21 @@ These sub-categories represent key drivers of revenue and should be prioritized 
 ### 10. Average Shipping Time:
 The average shipping time is 4 days, which seems reasonable, but there may be room for improvement to boost customer satisfaction, especially with rising competition offering faster shipping options.
 
-## FORECASTING:
+## FORECASTING FOR 15 DAYS:
+
+### Dashboard of Forecast: ![image](https://github.com/user-attachments/assets/e2791258-1eb9-4c14-9f66-3cec0dcf3134)
+
+### This chart provides a detailed forecast for the next 15 days starting from January 1, 2021.
+The sales prediction for this period fluctuates between 3.0K and 10.6K with some potential growth followed by dips.
+
+The green shaded area represents the confidence interval or uncertainty range in the forecast, showing possible variance in actual sales compared to predicted values.
+
+The model anticipates a spike around 10.6K sales followed by a stabilization around 3.0K, suggesting high variability in sales activity for this period.
+
+## Conclusion:
+This forecast highlights:
+1. Seasonal fluctuations in sales with peak periods during key times of the year.
+2. A potential spike in early January 2021 followed by a decrease, reflecting possible post-holiday effects.
+3. Sales might remain unpredictable, with forecasts showing a range of possible outcomes. The shaded confidence area indicates there may be significant variation in actual sales results.
+
 

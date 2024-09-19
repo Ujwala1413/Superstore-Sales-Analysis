@@ -1,5 +1,7 @@
 ## SUPERSTORE SALES ANALYSIS
 
+### Dashboard snapshot: ![image](https://github.com/user-attachments/assets/84a47517-ab10-441e-a47e-f821309b6b61)
+
 ### Problem Statement:
 In a competitive retail environment, understanding the patterns of sales, profit, and returns is critical for maximizing profitability and minimizing losses. 
 The goal is to analyze historical sales data to identify trends over time, such as seasonal variations and quarterly growth, and uncover the key factors driving profitability and product returns.
